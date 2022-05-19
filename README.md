@@ -17,3 +17,4 @@
 
 # random
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/84373336/160979231-3db84414-24d1-472c-9491-f16607ac8861.png">
+JSOUP 라이브러리를 사용 한 최근5주 미출현번호 자동업데이트
